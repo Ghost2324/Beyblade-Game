@@ -23,7 +23,7 @@ int main()
 	P2cardselection=0;
 	
 	
-	cout << "Beyblade Card Game\nby Srikanth A/L Ravichandran\n" << endl;
+	cout << "Beyblade Card Game\nby S.R\n" << endl;
 	cout << "Cards:" << endl;
 	cout << "#  Beyblade Name        Product Code  Type     Plus mode  System" << endl;
 	cout << "1. Abyss Devolos        F0647         Balance  -          Speedstorm" << endl;
